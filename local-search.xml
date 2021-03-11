@@ -4,13 +4,19 @@
   
   
   <entry>
-    <title>NO.1 初步设置中</title>
-    <link href="/2021/03/11/NO-1-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
-    <url>/2021/03/11/NO-1-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</url>
+    <title>NO.1 Hexo博客搭建教程</title>
+    <link href="/2021/03/12/NO-1-Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
+    <url>/2021/03/12/NO-1-Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</url>
     
-    <content type="html"><![CDATA[<h1 id="个人博客相关搭建方法"><a href="#个人博客相关搭建方法" class="headerlink" title="个人博客相关搭建方法"></a>个人博客相关搭建方法</h1><h3 id="本人只分享网络相关搭建方法，以下链接文章皆非本人创作，如有侵权，请联系-99-x6b-x61-x69-x39-56-x40-x71-113-x2e-x63-111-109-。"><a href="#本人只分享网络相关搭建方法，以下链接文章皆非本人创作，如有侵权，请联系-99-x6b-x61-x69-x39-56-x40-x71-113-x2e-x63-111-109-。" class="headerlink" title="本人只分享网络相关搭建方法，以下链接文章皆非本人创作，如有侵权，请联系&#99;&#x6b;&#x61;&#x69;&#x39;&#56;&#x40;&#x71;&#113;&#x2e;&#x63;&#111;&#109;。"></a>本人只分享网络相关搭建方法，以下链接文章皆非本人创作，如有侵权，请联系<a href="mailto:&#99;&#x6b;&#x61;&#x69;&#x39;&#56;&#x40;&#x71;&#113;&#x2e;&#x63;&#111;&#109;">&#99;&#x6b;&#x61;&#x69;&#x39;&#56;&#x40;&#x71;&#113;&#x2e;&#x63;&#111;&#109;</a>。</h3><h3 id="推荐新手看Github部署视频搭建，然后重新部署在Gitee上。"><a href="#推荐新手看Github部署视频搭建，然后重新部署在Gitee上。" class="headerlink" title="推荐新手看Github部署视频搭建，然后重新部署在Gitee上。"></a>推荐新手看Github部署视频搭建，然后重新部署在Gitee上。</h3><ul><li>博客框架：<a href="https://hexo.io/">HEXO</a><ul><li>Github部署<a href="https://www.bilibili.com/video/BV1Yb411a7ty?t=1676">B站教程</a></li><li>Gitee部署<a href="https://blog.csdn.net/weixin_42365530/article/details/107750003">文字教程</a></li></ul></li><li>UI框架：<a href="https://hexo.fluid-dev.com/docs/">Fluid</a></li><li>评论推送平台：<a href="https://console.leancloud.cn/apps">LearnCloud</a><ul><li><a href="https://blog.csdn.net/blue_zy/article/details/79071414">LearnCloud文字教程</a></li></ul></li><li>Gitee图床：<a href="https://blog.csdn.net/huyande123/article/details/107170214?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-1&spm=1001.2101.3001.4242">PicGo</a> </li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="个人博客相关搭建方法"><a href="#个人博客相关搭建方法" class="headerlink" title="个人博客相关搭建方法"></a>个人博客相关搭建方法</h1><h3 id="本人只分享网络相关搭建方法，以下链接文章皆非本人创作，如有侵权，请联系-99-x6b-x61-105-57-x38-64-113-113-46-x63-x6f-x6d-。"><a href="#本人只分享网络相关搭建方法，以下链接文章皆非本人创作，如有侵权，请联系-99-x6b-x61-105-57-x38-64-113-113-46-x63-x6f-x6d-。" class="headerlink" title="本人只分享网络相关搭建方法，以下链接文章皆非本人创作，如有侵权，请联系&#99;&#x6b;&#x61;&#105;&#57;&#x38;&#64;&#113;&#113;&#46;&#x63;&#x6f;&#x6d;。"></a>本人只分享网络相关搭建方法，以下链接文章皆非本人创作，如有侵权，请联系<a href="mailto:&#99;&#x6b;&#x61;&#105;&#57;&#x38;&#64;&#113;&#113;&#46;&#x63;&#x6f;&#x6d;">&#99;&#x6b;&#x61;&#105;&#57;&#x38;&#64;&#113;&#113;&#46;&#x63;&#x6f;&#x6d;</a>。</h3><h3 id="推荐新手看Github部署视频搭建，然后重新部署在Gitee上。"><a href="#推荐新手看Github部署视频搭建，然后重新部署在Gitee上。" class="headerlink" title="推荐新手看Github部署视频搭建，然后重新部署在Gitee上。"></a>推荐新手看Github部署视频搭建，然后重新部署在Gitee上。</h3><ul><li>博客框架：<a href="https://hexo.io/">HEXO</a><ul><li>Github部署<a href="https://www.bilibili.com/video/BV1Yb411a7ty?t=1676">B站教程</a></li><li>Gitee部署<a href="https://blog.csdn.net/weixin_42365530/article/details/107750003">文字教程</a></li></ul></li><li>UI框架：<a href="https://hexo.fluid-dev.com/docs/">Fluid</a></li><li>评论推送平台：<a href="https://console.leancloud.cn/apps">LearnCloud</a><ul><li><a href="https://blog.csdn.net/blue_zy/article/details/79071414">LearnCloud文字教程</a></li></ul></li><li>Gitee图床：<a href="https://blog.csdn.net/huyande123/article/details/107170214?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-1&spm=1001.2101.3001.4242">PicGo</a> </li></ul>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
     
   </entry>
   
